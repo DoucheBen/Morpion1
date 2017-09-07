@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morpion</string>
+    <string name="game_status_text">Joueur X c\'est à votre tour!</string>
+    <string name="game_replay_text">Rejouer</string>
+</resources>
